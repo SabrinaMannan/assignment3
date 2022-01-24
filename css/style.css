@@ -18,13 +18,8 @@
 }
 
 
-
-/* .carousel-caption a{
-    background: darkorange;
-    padding:10px 30px;
-    display:inline-block;
-    color: #fff;
-    margin-top:15px;
-    border-radius:50px;
-    text-decoration:none;
-} */
+footer{
+    background-color: black;
+    color:white;
+   
+}
